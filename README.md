@@ -32,4 +32,6 @@ The sample data lives in `data/sample.csv`. Columns are documented inline in
 
 Ask in lab!
 
-## Maggie's changes
+## María José's changes
+
+# Hi world
